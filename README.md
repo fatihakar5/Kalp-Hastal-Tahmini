@@ -44,5 +44,5 @@ DBSCAN</br>
 En iyi performans gösteren model RandomForestClassifier olmuştur. Yüksek Accuracy, Precision, Recall ve F1 skorlarına ulaşmıştır. </br>
 RandomForestClassifier modeli için hiper parametreleri optimize edilip model tekrar uygulanmıştır.
 
-# Proje Kaggle Linki []
+# Proje Kaggle Linki [https://www.kaggle.com/code/fatihakar5/heart-disease-prediction-project]
 
